@@ -1,0 +1,6 @@
+com\mycompany\noticeboard\LogoutServlet.class
+com\mycompany\noticeboard\LoginServlet.class
+com\mycompany\noticeboard\AddNoticeServlet.class
+com\mycompany\noticeboard\DeleteNoticeServlet.class
+com\mycompany\noticeboard\UpdateNoticeServlet.class
+com\mycompany\noticeboard\DBConnection.class
